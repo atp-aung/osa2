@@ -1,0 +1,22 @@
+p {
+  color: rgb(205, 20, 20);
+}
+
+.message {
+  border: 2px solid rgb(20, 205, 20);
+  padding: 10px 0;
+  color: rgb(20, 205, 20);
+  background-color: grey;
+}
+
+.warning-message {
+  border: 2px solid red;
+  padding: 10px 0;
+  color: red;
+  background-color: grey;
+}
+
+h2 {
+  width: 400px;
+  background-color: rgb(20, 205, 20);
+}
